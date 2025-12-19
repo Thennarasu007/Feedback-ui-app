@@ -1,6 +1,6 @@
 # 📦 Serverless Feedback Form on AWS
 
-Build a **real-world, serverless AWS project** that lets users submit feedback with optional PDF uploads — and delivers admin alerts, secure storage, and auto-deployment. This project is perfect for your portfolio, AWS learning path, or production use case.
+Build a **real-world, serverless AWS project** that lets users submit feedback with optional PDF uploads — and delivers admin alerts, secure storage, and auto-deployment.
 
 ---
 
